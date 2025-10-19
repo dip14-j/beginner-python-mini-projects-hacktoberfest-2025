@@ -125,7 +125,7 @@ if __name__ == "__main__":
 
     guesser = GuessTheWord()
     
-    path = r"D:\Programs\PythonPrograms\hacktoberfest_2025\Hacktoberfest-2025-Beginner-Python-Projects\src\Avik43218-word-guessing-game\valid_words.dat"
+    path = r"D:\Programs\PythonPrograms\hacktoberfest_2025\beginner-python-mini-projects-hacktoberfest-2025\src\Avik43218-word-guessing-game-cli\valid_words.dat"
     numberOfLevels, numberOfTries = guesser.initializeGame()
 
     guesser.main(path=path, numberOfLevels=numberOfLevels, numberOfTries=numberOfTries)
