@@ -1,0 +1,19 @@
+# --------------------------------------------
+# Student Attendance Tracker - Requirements
+# Author: Varad Raj Agrawal
+# Description: Dependencies for running and developing
+# the Student Attendance Tracker Python project
+# --------------------------------------------
+
+# Core dependency (Python version)
+python>=3.8
+
+# Optional tools for better development experience
+# (uncomment if you use them)
+# pylint==3.0.3           # For code linting
+# black==24.8.0           # For code formatting
+# pytest==8.3.3           # For testing future enhancements
+# flake8==7.1.0           # For style checking
+
+# No external libraries are required for this project.
+# The program runs using only Python's built-in features.
